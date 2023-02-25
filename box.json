@@ -9,7 +9,7 @@
 /*-----------------------JAR包接口-----------------------*/
 "spider":"https://raw.kgithub.com/lamkan0210/lambox/main/box/jar/0204.txt;md5;f6ca5c789e1aabad1d1dc8e27a393ca2",
 /*-----------------------直播-----------------------*/
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/cxr9912/cxr2022/dc59eaf6393f470c26a90e8e427784830b3cc3c1/18b.m3u"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/mt123456888/lambox/main/zb.txt"]}]}],
 
 /*-----------------------配置数据源-----------------------*/
 "sites":[
